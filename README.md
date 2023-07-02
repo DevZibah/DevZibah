@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chukwuma Chisom</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A frontend developer and technical writer from Nigeria</h3>
 
 <img align="right" alt="coding" width="280" src="https://media4.giphy.com/media/RpJPyxPD7HGHtwyg9z/giphy.gif?cid=ecf05e478n7q7xn2liod0lvz7pcmohihg0mp9d3qtha6aoti&rid=giphy.gif&ct=g">
 
@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/soh_mmee" target="blank"><img src="https://img.shields.io/twitter/follow/soh_mmee?logo=twitter&style=for-the-badge" alt="soh_mmee" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Tailwindcss**
 
 - 👨‍💻 All of my projects are available at [https://chukwumachisom.netlify.app/](https://chukwumachisom.netlify.app/)
 
-- 💬 Ask me about **react, django, next.js**
+- 💬 Ask me about **react, django**
 
 - 📫 How to reach me **chukwumachisom18@gmail.com**
 
