@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/soh_mmee" target="blank"><img src="https://img.shields.io/twitter/follow/soh_mmee?logo=twitter&style=for-the-badge" alt="soh_mmee" /></a> </p>
 
-- 🌱 I’m currently learning **Tailwindcss**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at [https://chukwumachisom.netlify.app/](https://chukwumachisom.netlify.app/)
 
