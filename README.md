@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **react, django**
 
-- 📫 How to reach me **chukwumachisom18@gmail.com**
+- 📫 How to reach me **chisomnnennachukwuma@gmail.com**
 
 - ⚡ Fun fact **I love vlogs**
 
