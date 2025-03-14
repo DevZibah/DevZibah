@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **chisomnnennachukwuma@gmail.com**
 
-- ⚡ Fun fact **I love vlogs**
+- ⚡ Fun fact **I love YouTube vlogs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
